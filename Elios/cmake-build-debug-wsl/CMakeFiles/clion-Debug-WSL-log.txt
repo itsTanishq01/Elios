@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /mnt/c/Tanishq/Tech/Elios -B /mnt/c/Tanishq/Tech/Elios/cmake-build-debug-wsl
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Tanishq/Tech/Elios/cmake-build-debug-wsl

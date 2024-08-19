@@ -1,0 +1,3 @@
+/mnt/c/Tanishq/Tech/Elios/cmake-build-relwithdebinfo-wsl/CMakeFiles/Elios.dir
+/mnt/c/Tanishq/Tech/Elios/cmake-build-relwithdebinfo-wsl/CMakeFiles/edit_cache.dir
+/mnt/c/Tanishq/Tech/Elios/cmake-build-relwithdebinfo-wsl/CMakeFiles/rebuild_cache.dir
